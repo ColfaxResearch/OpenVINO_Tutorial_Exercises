@@ -1,1 +1,1 @@
-# OpenVINO_Tutotrial_Exercises
+# OpenVINO_Tutorial_Exercises
